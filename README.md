@@ -39,7 +39,6 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
 Compare the manually calculated value and the observed practical value.
 <img width="916" height="1436" alt="image" src="https://github.com/user-attachments/assets/b983bc50-7761-4195-9623-128ce019c53c" />
 
@@ -48,13 +47,12 @@ Compare the manually calculated value and the observed practical value.
 <img width="1600" height="716" alt="image" src="https://github.com/user-attachments/assets/ae4a0223-b3f0-4d3c-8ad5-97096608526e" />
 
 
-```
 # Output
-```
+
 <img width="420" height="139" alt="image" src="https://github.com/user-attachments/assets/10dd9ad2-0b99-4cd7-b938-4af2b9ce3b5f" />
 
-``` 
+
 # Results:
-```
+
 For the given probabilities 0.4 , 0.19 , 0.16 , 0.15 , 0.15 Average Codeword Length is : 2.35 Entropy is : 2.228 Efficiency is : 94.8 % Redudancy is : 0.052 Variance is : 1.004
-```
+
